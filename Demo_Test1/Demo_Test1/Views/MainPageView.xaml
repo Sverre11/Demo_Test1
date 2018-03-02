@@ -17,5 +17,6 @@
             <Label Text="{Binding Data.rooms[0].name}"></Label>
             
         </StackLayout>
+        
     </ContentPage.Content>
 </ContentPage>
