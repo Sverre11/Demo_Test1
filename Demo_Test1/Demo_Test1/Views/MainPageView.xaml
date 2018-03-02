@@ -10,6 +10,7 @@
     
     
     <ContentPage.Content>
+        
         <StackLayout VerticalOptions="CenterAndExpand" 
                      HorizontalOptions="CenterAndExpand">
             <Label Text="{Binding Hello}"/>
