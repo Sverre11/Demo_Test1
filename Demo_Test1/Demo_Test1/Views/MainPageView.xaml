@@ -13,6 +13,7 @@
         
         <StackLayout VerticalOptions="CenterAndExpand" 
                      HorizontalOptions="CenterAndExpand">
+            
             <Label Text="{Binding Hello}"/>
             <Label Text="{Binding Data.rooms[0].name}"></Label>
             
